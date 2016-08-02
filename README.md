@@ -8,4 +8,6 @@ Example for use (ES2015):
 
 ```
 import {w3cwebsocket as W3CWebSocket} from 'websocket';
+
+let ws = new W3CWebSocket('ws://echo.websocket.org');
 ```
